@@ -1,0 +1,1 @@
+[dynamo-local-admin-docker](https://github.com/instructure/dynamo-local-admin-docker) with `-inMemory` database
